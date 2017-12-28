@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="Intogres Server" uploadOnCheckin="3c2af3a7-dd43-4351-944f-bb5be361d578">
+  <component name="PublishConfigData" serverName="Intogres Server" uploadOnCheckin="3c2af3a7-dd43-4351-944f-bb5be361d578">
     <serverData>
       <paths name="Intogres Server">
         <serverdata>
@@ -11,6 +11,5 @@
       </paths>
     </serverData>
     <option name="myUploadOnCheckinName" value="Intogres Server" />
-    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
   </component>
 </project>
